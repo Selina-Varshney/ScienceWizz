@@ -36,3 +36,16 @@
     transform: rotate(360deg);
   }
 }
+
+body{
+  background-image: url("bgphoto3.jpg");
+}
+
+h2.text-center{
+font-family: Georgia, 'Times New Roman', Times, serif;
+display: flex;
+justify-content: center;
+background-color: white;
+border-radius: 20px;
+padding: 2px;
+}
