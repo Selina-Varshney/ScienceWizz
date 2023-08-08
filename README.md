@@ -1,6 +1,6 @@
 # ScienceWizz
 
-A React application which fetches science related news from News API.<br>
+A React application which fetches science related news from News API in real time.<br>
 On clicking on 'Readmore' for a card, it redirects to the actual website with the news.<br>
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
